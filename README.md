@@ -1,16 +1,13 @@
-## Hi there 👋
+![banner gif](_.gif)
 
-<!--
-**ndeoka/ndeoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello to anyone who is reading this!
 
-Here are some ideas to get you started:
+I guess I chose informatics at school and now instead of chilling I'm out there watching a 4 hour long video on the entirety of html and css. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And somehow it still took 16 years to get diagnosed.🌻
+
+-- she/her
+
+-- Dut🇳🇱/Eng🇬🇧/(Bel)Rus🇧🇾
+
+-- No need for Claude, I can write shit code myself.
